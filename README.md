@@ -1,4 +1,4 @@
-# **Edgeworth Consulting**
+# **EDGEWORTH CONSULTING**
 
 # Landslides: Tackling the Poverty Trap
 
