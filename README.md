@@ -3,9 +3,14 @@
 ### Landslides and Poverty
 Landslides are a catastrophic disaster for communities across the world, but especially for already vulnerable ones. Landslides decimate livelihoods and community wealth. Repeated disasters in landslide susceptible areas can trap vulnerable communities in a cycle of poverty. 
 
+[Anderson, M., Holcombe, L., Flory, R. et al. Nat Hazards (2008) 47: 297.](https://doi.org/10.1007/s11069-008-9220-z)
+
+
 [Mertens, K., Liesbet, V., Investing in land to change your risk exposure (2018).](https://doi.org/10.1016/j.worlddev.2018.06.015)
 
+
 [Olivares, L., Damiano, E., Mercogliano, P. et al. Landslides (2014) 11: 765.](https://doi.org/10.1007/s10346-013-0430-4)
+
 
 [Olivares, L. Landslide risk management (2011).](http://hdl.handle.net/11591/217202)
 
