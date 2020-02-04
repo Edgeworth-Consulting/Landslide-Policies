@@ -38,7 +38,7 @@ We aim to break this cycle with 3 key steps of analysis:
 We work in the intersection of socioeconomic politics and risk management to provide our clients with actionable policy recommendations. We combine integrity, communication, and teamwork to tackle big projects with big data. Our unique brand of quantitative and qualitative analysis lets us offer practical, sustainable solutions to clients all over the world.
 
 
-kkkk
+kkkkk
 
 
 You can use the [editor on GitHub](https://github.com/Edgeworth-Consulting/Landslide-Policies/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
