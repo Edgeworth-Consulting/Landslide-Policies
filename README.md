@@ -3,6 +3,8 @@
 ### Mission Statement:
 We work in the intersection of socioeconomic politics and risk management to provide our clients with actionable policy recommendations. We combine integrity, communication, and teamwork to tackle big projects with big data. Our unique brand of quantitative and qualitative analysis lets us offer practical, sustainable solutions to our clients all over the world.
 
+
+
 You can use the [editor on GitHub](https://github.com/Edgeworth-Consulting/Landslide-Policies/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
