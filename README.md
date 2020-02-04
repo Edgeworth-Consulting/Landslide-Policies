@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+### Edgeworth Consulting
+##Landslide Policy Proposals for the United States, Marshall Islands, and Malaysia.
 
 You can use the [editor on GitHub](https://github.com/Edgeworth-Consulting/Landslide-Policies/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
