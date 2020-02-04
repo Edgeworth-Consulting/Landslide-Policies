@@ -1,8 +1,29 @@
 # Landslides: Tackling the Poverty Trap
 
-### Mission Statement:
-We work in the intersection of socioeconomic politics and risk management to provide our clients with actionable policy recommendations. We combine integrity, communication, and teamwork to tackle big projects with big data. Our unique brand of quantitative and qualitative analysis lets us offer practical, sustainable solutions to our clients all over the world.
+### Landslides and Poverty
+Landslides are a catastrophic disaster for communities across the world, but especially for already vulnerable ones. Landslides decimate livelihoods and community wealth. Repeated disasters in landslide susceptible areas can trap vulnerable communities in a cycle of poverty. 
 
+### Project Plan
+We aim to break this cycle with 3 key steps of analysis:
+
+1. Landslide Susceptibility Rating
+- How likely is it that a community will face landslides?
+- What areas are most susceptible to landslides?
+
+2. Socio-Economic Risk Evaluation
+- What is the community cost of a landslide?
+- What is the cost of an insurance policy?
+
+3. Actionable Policy Recommendations
+- How can a community reduce the risks of landslides?
+- What steps can you take to face landslides?
+
+
+### Mission Statement:
+We work in the intersection of socioeconomic politics and risk management to provide our clients with actionable policy recommendations. We combine integrity, communication, and teamwork to tackle big projects with big data. Our unique brand of quantitative and qualitative analysis lets us offer practical, sustainable solutions to clients all over the world.
+
+
+kkkkk
 
 
 You can use the [editor on GitHub](https://github.com/Edgeworth-Consulting/Landslide-Policies/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
